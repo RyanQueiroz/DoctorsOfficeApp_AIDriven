@@ -247,6 +247,7 @@ cd ../frontend && npm ci && npx ng build
 
 Arquivos de apoio:
 
+- `docs/refactoring/PROMPTS.md`: texto integral de todos os prompts (do aluno, dos dois agentes e de cada intervenção).
 - `docs/refactoring/diagnostico/`: auditoria do código original (resumo + 5 detalhes).
 - `docs/refactoring/revisao/`: revisão independente do diff (resumo + 3 detalhes), feita antes da rodada de correções e1f1e05 a e50e14e.
 - `backend/Consultorio.Api.Tests/`: rede de segurança (caracterização + unitários).
